@@ -1,75 +1,24 @@
-# Nuxt Minimal Starter
+<h2>Task Board</h2>
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+[DEMO LINK](https://nuxt-task-board.vercel.app/)
 
-## Setup
+---
 
-Make sure to install dependencies:
+<img src="https://img001.prntscr.com/file/img001/GFyT7GEySUyivix999Q9aA.png">
 
-```bash
-# npm
-npm install
+Here you can:
 
-# pnpm
-pnpm install
+- Add tasks
+- Edit tasks
+- Delete tasks
+- Drag&Drop tasks
 
-# yarn
-yarn install
+<h3>Try it Yourself</h3>
 
-# bun
-bun install
-```
+- clone the forked repo to be running
+- open the project: <code>code ./nuxt-task-board</code>
 
-## Development Server
+Then open a new terminal and enter:
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+2.  <code>npm i </code>
+3.  <code>npm run dev</code>
